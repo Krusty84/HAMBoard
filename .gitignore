@@ -1,0 +1,49 @@
+//
+//  .gitignore
+//  HAMBoard
+//
+//  Created by Sedoykin Alexey on 05/12/2025.
+//
+
+# General, yeah
+.DS_Store
+
+# User data
+xcuserdata/
+*.xcuserstate
+
+# Build things
+build/
+DerivedData/
+
+# SPM build folder
+.build/
+
+# Local settings, temporary files
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Archives
+*.xcarchive
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Per-user workspace data
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+*.xcodeproj/xcuserdata/
