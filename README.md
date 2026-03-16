@@ -18,21 +18,19 @@ This application is dedicated to my uncle UA9XG (SK), who gave me my love for am
 - Raw DX cluster debug stream
 
 ### DX Cluster
-
-![DX Cluster Placeholder](docs/screenshots/dx-cluster.png)
+<img width="640" height="361" alt="1" src="https://github.com/user-attachments/assets/da51aac9-3ebe-4291-adaa-26cbae2c10ae" />
+<img width="640" height="360" alt="2" src="https://github.com/user-attachments/assets/2342e6ed-0520-48ec-853b-7119aba36665" />
 
 ### Propagation
-
-![Propagation Placeholder](docs/screenshots/propagation.png)
+<img width="640" height="358" alt="3" src="https://github.com/user-attachments/assets/e96146bf-63e9-4c2f-8d18-301edc377e30" />
+<img width="640" height="361" alt="4" src="https://github.com/user-attachments/assets/4d24e641-d220-41e9-8f63-65d7c6ebe0fb" />
 
 ### Contests
-
-![Contests Placeholder](docs/screenshots/contests.png)
+<img width="640" height="359" alt="5" src="https://github.com/user-attachments/assets/80d8a890-0817-43c1-b247-af1d43f4c9a8" />
 
 ### Settings
-
-![Settings Placeholder](docs/screenshots/settings.png)
-
+<img width="640" height="360" alt="6" src="https://github.com/user-attachments/assets/27c8a90f-8a97-4a64-860f-3761c6303877" />
+<img width="640" height="360" alt="7" src="https://github.com/user-attachments/assets/488af838-d352-46d2-b9d9-91db7e55f34b" />
 
 ## Acknowledgments
 
