@@ -1,4 +1,6 @@
-# What is this?
+# HAMBoard [![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1774310400)](https://apps.apple.com/us/app/hamboard/id6760978736?itscg=30200&itsct=apps_box_badge&mttnsubad=6760978736)
+
+## What is this?
 
 HAMBoard is a tvOS (Apple TV) application for amateur radio operators.
 It combines live DX Cluster monitoring, propagation conditions, contest calendar access, and station-oriented configuration tools in one screen-first dashboard.
